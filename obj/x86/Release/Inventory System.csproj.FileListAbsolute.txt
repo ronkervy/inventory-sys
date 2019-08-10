@@ -1,0 +1,79 @@
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\gc_log.ldf
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Reports\stock.rpt
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Reports\inventory.rpt
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Reports\receipt.rpt
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Reports\sales.rpt
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Reports\stock.cs
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Reports\inventory.cs
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Reports\receipt.cs
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Reports\sales.cs
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\gc.mdf
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Glorious Coco Lumber System.exe.config
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Glorious Coco Lumber System.exe.manifest
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Glorious Coco Lumber System.application
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Glorious Coco Lumber System.exe
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Glorious Coco Lumber System.pdb
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\BunifuDataViz 1.0.1.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Bunifu_UI_v1.5.3.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.CrystalReports.Design.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportSource.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.Shared.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.Windows.Forms.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\FlashControlV71.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Microsoft.ReportViewer.Common.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.Web.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\ShockwaveFlashObjects.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\Microsoft.SqlServer.Types.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\bin\x86\Release\stdole.dll
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.Dashboardcs.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.Delivery.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.DeliveryInfo.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.DeliveryStatusDashboard.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.delQty.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.editItem.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.EditSupplier.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.EditUser.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.Inventory_Info.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.Inventory_Main.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.inventoryList.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.InventoryQty.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.LoginForm.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.LowInventoryDashboard.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.LowOnStockDashboard.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.notification.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.ProductList.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.receipt.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.SalesDashboard.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.salesQty.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.splash.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.stockList.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.stockQty.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.SupplierList.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.Transaction_History.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.Transaction.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.forms.UsersList.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Properties.Resources.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Report_Forms.Inventory_Report.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Report_Forms.Stock_Report.resources
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory System.csproj.GenerateResource.cache
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory System.csproj.CoreCompileInputs.cache
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Glorious Coco Lumber System.TrustInfo.xml
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Glorious Coco Lumber System.exe.manifest
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Glorious Coco Lumber System.application
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Inventory System.csproj.CopyComplete
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Glorious Coco Lumber System.exe
+D:\NEW VB PROJECTS 2019\inventory version2\Inventory System\Inventory System\obj\x86\Release\Glorious Coco Lumber System.pdb
